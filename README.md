@@ -17,7 +17,7 @@ A cross-platform dark "hacker-style" CLI tool that locks folders using OS permis
 
 ## 🚀 Features
 
-- 🌐 **Cross-Platform**: Works on Windows, Linux, and macOS
+- 🌐 **Cross-Platform**: Works on Windows, (Linux, and macOS) comming soon
 - 🔐 **Double Security**: OS permissions + password protection
 - 🔑 **Master Key**: Emergency access mechanism
 - 💾 **Persistent Database**: Tracks all locked folders
